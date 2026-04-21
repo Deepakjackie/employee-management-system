@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 FINAL 
+=======
+FEATURE 
+>>>>>>> 65b847b (feature change)
