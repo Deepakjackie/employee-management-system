@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 FEATURE 
 
@@ -7,9 +6,3 @@ FINAL
 FEATURE 
 
 test 
-=======
-1.Deepak 
-2.Pavan 
-3.Madhan 
-4. Vamshi 
->>>>>>> 503a935 (Added 4th employee)
